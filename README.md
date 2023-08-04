@@ -1,7 +1,5 @@
-![logo](https://github.com/Mahendrak1999/mahendrak1999/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahendra Koravi</h1>
 <h3 align="center">Graduate Illinois Tech student & Data Analyst Loading..</h3>
-<img align="right"  width="400" src="123>
 
 - 🌱 I’m currently learning **Python,PowerBI,Data Analysis**
 
