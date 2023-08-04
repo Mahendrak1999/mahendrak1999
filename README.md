@@ -1,4 +1,4 @@
-
+![logo](https://cutewallpaper.org/28/cyber-wallpaper-gif/cyber-technology-earth-globe-on-behance.gif)
 <h1 align="center">Hi 👋, I'm Mahendra Koravi</h1>
 <h3 align="center">Graduate Illinois Tech student & Data Analyst Loading..</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
