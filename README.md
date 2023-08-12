@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Excel, Data Analysis & more..**
 
-- 📫 How to reach me **mkkoravi1999@gmail.com**
+- 📫 How to reach me **mahendraak1999@gmail.com**
 
 - ⚡ Fun fact **Get in touch with me..**
 
