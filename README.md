@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahendraak1999@gmail.com**
 
-- ⚡ Fun fact **Get in touch with me..**
+- ⚡  **Get in touch with me..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
